@@ -2,60 +2,27 @@
 layout: default
 ---
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+# Devashish Das
 
-<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+<p align="center">
+  <img src="fig.png" width = "200px"  style="border-radius: 50%">
+</p>
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+I am a Research Associate in the [Mayo Clinic Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery](www.mayo.edu). I did my PhD from the Department of Industrial and Systems Engineering at the University of Wisconsin - Madison. Go Badgers!
 
-## Solo is useful if...
+Prior to that I did my undergrad in Indian Institute of Technology - Kharagpur and I am a proud KGPian for life!
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+## <i class="fa fa-cog fa-spin fa-3x fa-fw" style="font-size:1em;"></i>  Experience
+* Research Associate, 2015 -- now, Mayo Clinic, Rochester, Minnesota
+* Research Assistant and Teaching Assistant, 2010 -- 2015,  University of Wisconsin - Madison
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+## <i class="fa fa-university" style="font-size:1em;"></i> Education
 
-## Usage
+* Ph.D., Industrial Engineering, 2015, University of Wisconsin - Madison
+* B. Tech (Hons.), Manufacturing Science and Engineering, 2010, Indian Institute of Technology - Kharagpur.
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
 
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
+## <i class="fa fa-address-book" style="font-size:1em;"></i> Contact
 
-### Other Files
-
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
-
-### Don't use `<h1>` tags
-
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
-
-### Supported Tags
-
-Solo supports lists, `<hr>`s, `<table>`s,
-
-> blockquotes, and...
-
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
-
-### Keep Solo up to date
-
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
-
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
+* <i class="fa fa-envelope-open" style="font-size:1em;"></i> <a href="mailto:ddas.wisc@gmail.com" target="_top">ddas.wisc@gmail.com</a>
+* <i class="fa fa-phone" style="font-size:1em;"></i> +1 507 293 7023

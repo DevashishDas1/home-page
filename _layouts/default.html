@@ -7,9 +7,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 {% include head.html %}
 </head>
 <body>
+<br/>
+<header>
+      <div class="main-nav" style="text-align:center">
+            <a href="index.html"> <i class="fa fa-home"></i> Home </a>
+            <a href="page1.html"> <i class="fa fa-flask"></i> Research</a> 
+            <a href="teach.html"><i class="fa fa-book"></i> Teaching</a> 
+            <a href="team.html"><i class="fa fa-group"></i> Collaborators</a> 
+      </div>
+    </header>
+  <br/>
+
+  
   <div class="container">
     <h1><a href="./">{{ site.tag_text }}</a></h1>
     {{ content }}
